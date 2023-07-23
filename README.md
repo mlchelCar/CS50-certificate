@@ -1,3 +1,3 @@
 2020 CS50 Certificate
 
-CS50's Introduction to Artificial Intelligence with Python
+Harvard University course - CS50's Introduction to Artificial Intelligence with Python
